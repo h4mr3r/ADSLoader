@@ -11,3 +11,10 @@ Program adds the alternate data stream to the selected file
 ## streamer
 
 Program executes the alternate data stream added by the ADSadder. It does not use default :$DATA but the next one.
+
+
+
+## How ADS works?
+It attaches additional data to a file or folder without altering the main content of that file/folder.
+#### Demo:
+![ADS_demo.gif](resources%2FADS_demo.gif)
