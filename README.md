@@ -17,4 +17,4 @@ Program executes the alternate data stream added by the ADSadder. It does not us
 ## How ADS works?
 It attaches additional data to a file or folder without altering the main content of that file/folder.
 #### Demo:
-![ADS_demo.gif](resources%2FADS_demo.gif)
+[ADS_demo.mp4](resources%2FADS_demo.mp4)
